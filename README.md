@@ -3,7 +3,7 @@
 Projeto baseado no [curso](https://cursos.alura.com.br//course/java-novidades-novos-recursos) do Alura
 
 ##Abaixo o conteúdo do projeto
-- ####Java 9
+- Java 9
     - Factory Methods (pacote br.com.guilhermealvessilve.factorymethod)
     - Java Platform Module System (pasta src-modulos)
         - Módulos (pasta br.com.guilhermealvessilve)
@@ -12,13 +12,13 @@ Projeto baseado no [curso](https://cursos.alura.com.br//course/java-novidades-no
             - br.com.guilhermealvessilve.modelo
             - br.com.guilhermealvessilve.nf
             - br.com.guilhermealvessilve.principal
-- ####Java 11
+- Java 11
     - HTTP/2 Client (pacote br.com.guilhermealvessilve.httpclient)
     - Inferência Variável (pacote br.com.guilhermealvessilve.inferenciavariavel)
     - Reactive-Streams (pacote br.com.guilhermealvessilve.reactivestreams)
-- ####Java 13
+- Java 13
     - Text Block (pacote br.com.guilhermealvessilve.textblock)
-- ####Java 14
+- Java 14
     - Switch Expressions (pacote br.com.guilhermealvessilve.switchexpression)
     - Pattern Matching for instanceof (pacote br.com.guilhermealvessilve.patternmatchingforinstanceof)
     - Record (pacote br.com.guilhermealvessilve.record)
